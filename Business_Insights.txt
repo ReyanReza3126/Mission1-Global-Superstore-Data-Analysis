@@ -1,0 +1,10 @@
+GLOBAL SUPERSTORE - BUSINESS INSIGHTS
+=============================================
+Total Sales: $12,642,501.91
+Total Profit: $1,467,457.29
+Total Orders: 25,035
+Total Quantity: 178,312
+Top Sales Category: Technology
+Top Profit Region: Central
+Top Customer Segment: Consumer
+Lowest Profit Sub-Category: Tables
